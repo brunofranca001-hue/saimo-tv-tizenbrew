@@ -1,0 +1,23 @@
+{
+  "name": "saimo-tv-tizenbrew",
+  "appName": "Saimo TV",
+  "version": "1.0.0",
+  "description": "Atalho do TizenBrew que abre o site do Saimo TV na TV Samsung.",
+  "packageType": "mods",
+  "websiteURL": "https://saimo-tv.pages.dev/",
+  "main": "main.js",
+  "keys": [
+    "MediaPlayPause",
+    "MediaPlay",
+    "MediaPause",
+    "MediaStop",
+    "MediaFastForward",
+    "MediaRewind",
+    "ChannelUp",
+    "ChannelDown"
+  ],
+  "repository": {
+    "url": "https://github.com/brunofranca001-hue/saimo-tv-tizenbrew"
+  },
+  "license": "MIT"
+}
